@@ -27,6 +27,6 @@ O resultado final do código é produzir 12 gráficos comparativos com dados rel
 O arquivo **grafico_final.png** contém um exemplo do que deve ser a saída produzida pelo programa.
 
 
-** tweets **  
+**tweets**  
 Um exemplo de como cruzar informações com dados de redes sociais (Tweeter) é o arquivo **Tweets.R**  
 É um exemplo estático que pode ser facilmente adaptado para chamar uma API.  
