@@ -4,7 +4,7 @@
 **Pós Ciência de Dados - Módulo 2/2024**  
 **Aluno:** Roberto Augusto Freaza  
 **email:** roberto.freaza@gmail.com  
-**Matícula:** 2024000002
+**Matícula:** 2024000002  
 **Professor da disciplina:** Sérgio Monteiro, DSC  
 
 
